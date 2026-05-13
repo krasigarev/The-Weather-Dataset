@@ -33,5 +33,7 @@ Tasks:
 15) Find all instances when :
 
 A. 'Weather is Clear' and 'Relative Humidity is greater than 50'
+
 or
+
 B. 'Visibility is above 40'

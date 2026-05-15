@@ -1,6 +1,6 @@
-# In this project, will use:
+# The Weather Dataset
 
-## The commands that we used in this project :
+## In this project, will use:
 
 - head() - It shows the first N rows in the data (by default, N=5).
 - shape - It shows the total no. of rows and no. of columns of the dataframe
